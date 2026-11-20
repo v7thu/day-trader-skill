@@ -1,5 +1,2 @@
-trader/watchlist.json
-trader/state/
-trader/entry.json
-trader/plan.json
-trader/orders.json
+trader/*
+!trader/config.json
