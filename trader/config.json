@@ -20,5 +20,6 @@
   "allow_options": false,
   "allow_margin": false,
   "allow_short": false,
-  "pdt_guard": false
+  "pdt_guard": false,
+  "sec_user_agent": "Vithu vithu.research@example.com"
 }
