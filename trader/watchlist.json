@@ -1,0 +1,57 @@
+{
+  "created_by": "trader-scanner",
+  "created_at": "2026-11-20T14:30:27Z",
+  "mode": "daily",
+  "as_of": "2026-11-19 close",
+  "universe": 50,
+  "scanned": 50,
+  "failed": 0,
+  "source": "yahoo",
+  "filters": {
+    "min_price": 5.0,
+    "min_volume": 0
+  },
+  "note": "A scan is a list of charts that match a rule, not a list of stocks to buy.",
+  "hits": [
+    {
+      "symbol": "NVDA",
+      "setups": [
+        "oversold"
+      ],
+      "price": 145.98,
+      "close_date": "2026-11-19",
+      "rsi": 19.8,
+      "volume": 28163081
+    },
+    {
+      "symbol": "UNH",
+      "setups": [
+        "oversold"
+      ],
+      "price": 330.48,
+      "close_date": "2026-11-19",
+      "rsi": 24.3,
+      "volume": 621489
+    },
+    {
+      "symbol": "CAT",
+      "setups": [
+        "oversold"
+      ],
+      "price": 537.37,
+      "close_date": "2026-11-19",
+      "rsi": 27.0,
+      "volume": 258134
+    },
+    {
+      "symbol": "CRM",
+      "setups": [
+        "oversold"
+      ],
+      "price": 183.31,
+      "close_date": "2026-11-19",
+      "rsi": 22.0,
+      "volume": 350730
+    }
+  ]
+}
